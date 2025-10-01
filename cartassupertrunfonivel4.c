@@ -34,7 +34,7 @@ int main (){
    
     pibper1 = pib1 / populacao1;
    
-    printf("A dansidade populacional é: %lf\n", densidade1);
+    printf("A densidade populacional é: %lf\n", densidade1);
     printf("O PIB per capita é: %lf\n", pibper1);
 
     printf("Carta de número 2!\n");
